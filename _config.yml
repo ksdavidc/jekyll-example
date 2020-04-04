@@ -11,7 +11,7 @@ relative_permalinks: false
 title:               Jekyll Example
 tagline:             Basic example of a Jekyll site with Sass enabled.
 url:                 https://ksdavidc.github.io/jekyll-example/
-# baseurl:             /jekyll-example/
+baseurl:             /jekyll-example/
 
 # Assets
 #
