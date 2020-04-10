@@ -56,5 +56,3 @@ highlighter:         rouge
 sass:
   sass_dir:          _scss
   style:            :compressed
-
-theme: jekyll-theme-leap-day
